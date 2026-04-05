@@ -1,1 +1,13 @@
-
+h1 {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  font-family: cursive;
+  border-style: double;
+  padding:2px;
+  border-radius: 2px;
+  border-width: 10px;
+  border-color: white; 
+  font-size: 40px;
+  background-color: #09a1a1;
+}
