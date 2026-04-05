@@ -15,3 +15,16 @@ h1 {
 body {
   background-color: #c1e3c1;
 }
+.link {
+  color:#09a1a1;
+  border-color: #09a1a1;
+  border: 6px;
+  border-style:double;
+  border-radius: 15px;
+  text-decoration: none;
+  padding: 15px;
+  background-color:#fad7d7;
+  margin: 45px;
+  font-size: 25px;
+  width: 80px;
+}
